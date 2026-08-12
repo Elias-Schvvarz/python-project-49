@@ -1,5 +1,11 @@
-def main():
+from brain_games.cli import welcome_user
+
+def title():
     print("Welcome to the Brain Games!")
+
+def main():
+    title()
+    welcome_user()
 
 if __name__ == '__main__':
     main()
