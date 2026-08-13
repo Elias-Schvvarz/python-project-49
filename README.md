@@ -4,5 +4,8 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Elias-Schvvarz/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Elias-Schvvarz/python-project-49/actions)
 
+### Asciinema show up:
+https://asciinema.org/a/DSEZQpjYOJrX7oA7
+
 # Setup
     make install

@@ -30,4 +30,4 @@ def run_game(rule, game_logic):
     congrats(name)
 
 if __name__ == '__main__':
-    run_game()
+    run_game('','')
