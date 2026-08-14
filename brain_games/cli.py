@@ -10,6 +10,6 @@ if __name__ == '__main__':
     get_user_name()
 
 
-def get_user_answer_for_string() -> str:
+def get_user_answer():
     user_answer = prompt.string('Your answer: ').lower()
     return user_answer

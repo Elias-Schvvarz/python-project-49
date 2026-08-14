@@ -1,4 +1,4 @@
-from brain_games.cli import get_user_name, get_user_answer_for_string
+from brain_games.cli import get_user_name, get_user_answer
 
 def welcome_message():
     print("Welcome to the Brain Games!")
@@ -20,7 +20,7 @@ def run_game(rule, game_logic):
     while i < 3:
         question, correct_answer = game_logic()
         print(question)
-        user_answer = get_user_answer_for_string()
+        user_answer = get_user_answer()
         if user_answer == correct_answer:
             print('Correct!')
             i += 1
