@@ -4,8 +4,15 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Elias-Schvvarz/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Elias-Schvvarz/python-project-49/actions)
 
-### Asciinema show up:
-https://asciinema.org/a/DSEZQpjYOJrX7oA7
-
 # Setup
     make install
+
+### Asciinema brain-even show up:
+https://asciinema.org/a/DSEZQpjYOJrX7oA7
+
+### Asciinema brain-calc show up:
+https://asciinema.org/a/q6oUQVxC7y7CdXfV
+
+### Asciinema brain-gcd show up:
+https://asciinema.org/a/hieosEr5EqUPVOI6
+
