@@ -25,7 +25,7 @@ def run_game(rule, game_logic):
             print('Correct!')
             i += 1
         else:
-            user_lost(correct_answer, user_answer, name)
+            user_lost(correct_answer=correct_answer, user_answer=user_answer, name=name)
             return
     congrats(name)
 
