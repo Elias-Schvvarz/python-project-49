@@ -1,5 +1,6 @@
 import random
 
+
 def play_gcd():
     a = random.randint(1,20)
     b = random.randint(1, 20)

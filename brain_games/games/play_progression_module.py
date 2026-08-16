@@ -1,5 +1,6 @@
 import random
 
+
 def play_progression():
     start_int = random.randint(1, 30)
     index = random.randint(2, 5)

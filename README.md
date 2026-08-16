@@ -19,3 +19,5 @@ https://asciinema.org/a/hieosEr5EqUPVOI6
 ### Asciinema brain-progression show up:
  https://asciinema.org/a/wRyVvX4lSq2P0hAH
 
+### Asciinema brain-prime show up:
+https://asciinema.org/a/jCkFzrCuEwQ4ojRx
