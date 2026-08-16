@@ -2,7 +2,7 @@ import random
 
 
 def play_gcd():
-    a = random.randint(1,20)
+    a = random.randint(1, 20)
     b = random.randint(1, 20)
 
     question = f'{a} {b}'

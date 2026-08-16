@@ -1,11 +1,16 @@
-from brain_games.cli import get_user_name, get_user_answer
+from brain_games.cli import get_user_answer, get_user_name
+
 
 def welcome_message():
     print("Welcome to the Brain Games!")
 
 
 def user_lost(user_answer, correct_answer, name):
-    print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{correct_answer}'.\nLet's try again, {name}!")
+    print(
+        f"'{user_answer}' is wrong answer ;(."
+        f"Correct answer was '{correct_answer}'."
+        f"\nLet\'s try again, {name}!"
+    )
 
 
 def congrats(name):
@@ -25,9 +30,14 @@ def run_game(rule, game_logic):
             print('Correct!')
             i += 1
         else:
-            user_lost(correct_answer=correct_answer, user_answer=user_answer, name=name)
+            user_lost(
+                correct_answer=correct_answer,
+                user_answer=user_answer,
+                name=name
+            )
             return
     congrats(name)
 
+
 if __name__ == '__main__':
-    run_game('','')
+    run_game('', '')

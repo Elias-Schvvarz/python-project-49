@@ -6,6 +6,7 @@ def get_user_name():
     print(f'Hello, {name}!')
     return name
 
+
 if __name__ == '__main__':
     get_user_name()
 

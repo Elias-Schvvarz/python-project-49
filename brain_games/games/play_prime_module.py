@@ -2,7 +2,7 @@ import random
 
 
 def play_prime():
-    number = random.randint(1,100)
+    number = random.randint(1, 100)
     question = f'Question: {number}'
 
     if number < 2:
