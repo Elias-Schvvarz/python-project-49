@@ -16,3 +16,6 @@ https://asciinema.org/a/q6oUQVxC7y7CdXfV
 ### Asciinema brain-gcd show up:
 https://asciinema.org/a/hieosEr5EqUPVOI6
 
+### Asciinema brain-progression show up:
+ https://asciinema.org/a/wRyVvX4lSq2P0hAH
+
