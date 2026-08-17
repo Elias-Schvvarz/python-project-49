@@ -37,6 +37,9 @@ Install the package globally using `uv`:
 # Setup
     make install
 
+### Asciinema installation guide:
+https://asciinema.org/a/TUPIPKYyJDqQhe7P
+
 ### Asciinema brain-even show up:
 https://asciinema.org/a/DSEZQpjYOJrX7oA7
 
