@@ -11,7 +11,8 @@ def play_progression():
     hidden_index = random.randint(0, length - 1)
     correct_answer = progression[hidden_index]
     progression[hidden_index] = '..'
-    question = ' '.join(progression)
+    raw_question = ' '.join(progression)
+    question = f'Question:{raw_question}'
     return question, correct_answer
 
 

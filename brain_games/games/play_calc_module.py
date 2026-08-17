@@ -14,7 +14,7 @@ def play_calc():
     else:
         result = a * b
 
-    question = f"{a}{function}{b}"
+    question = f'Question:{a}{function}{b}'
 
     correct_answer = str(result)
 
