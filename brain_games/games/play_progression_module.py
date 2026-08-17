@@ -12,7 +12,7 @@ def play_progression():
     correct_answer = progression[hidden_index]
     progression[hidden_index] = '..'
     raw_question = ' '.join(progression)
-    question = f'Question:{raw_question}'
+    question = f'Question: {raw_question}'
     return question, correct_answer
 
 

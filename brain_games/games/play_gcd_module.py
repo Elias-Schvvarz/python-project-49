@@ -5,7 +5,7 @@ def play_gcd():
     a = random.randint(1, 20)
     b = random.randint(1, 20)
 
-    question = f'Question:{a} {b}'
+    question = f'Question: {a} {b}'
 
     while b != 0:
         new_a = b
