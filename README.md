@@ -23,7 +23,7 @@ player must answer all three questions correctly. A single mistake ends the game
 
 ## Minimum Requirements
 
-* **Python:** `>= 3.10`
+* **Python:** `>= 3.14`
 * **Package Manager:** `uv`
 
 ---
