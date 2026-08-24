@@ -6,16 +6,16 @@
 ## Description
 
 
-**Brain Games** is a collection of five interactive command-line math mini-games.
+**Elias Games** is a collection of five interactive command-line math mini-games.
 Each game challenges the player with three consecutive math questions. To win, the
 player must answer all three questions correctly. A single mistake ends the game.
 
 ### Games Included:
-1. **Brain Even:** Determine whether the given number is even or odd.
-2. **Brain Calc:** Calculate the result of a mathematical expression (`+`, `-`, `*`).
-3. **Brain GCD:** Find the greatest common divisor of two random numbers.
-4. **Brain Progression:** Find the missing number in an arithmetic progression.
-5. **Brain Prime:** Determine whether the given number is a prime number.
+1. **Elias Even:** Determine whether the given number is even or odd.
+2. **Elias Calc:** Calculate the result of a mathematical expression (`+`, `-`, `*`).
+3. **Elias GCD:** Find the greatest common divisor of two random numbers.
+4. **Elias Progression:** Find the missing number in an arithmetic progression.
+5. **Elias Prime:** Determine whether the given number is a prime number.
 
 ---
 
