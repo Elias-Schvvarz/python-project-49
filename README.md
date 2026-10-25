@@ -3,6 +3,9 @@
 ### Sonar badge:
 [![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=Elias-Schvvarz_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Elias-Schvvarz_python-project-49)
 
+### Github action:
+[![show-directory](https://github.com/Elias-Schvvarz/python-project-49/actions/workflows/test-workflow.yml/badge.svg)](https://github.com/Elias-Schvvarz/python-project-49/actions/workflows/test-workflow.yml)
+
 ## Description
 
 
