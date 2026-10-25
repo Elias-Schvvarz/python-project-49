@@ -14,5 +14,5 @@ lint:
 	uv run ruff check brain_games
 
 
-make say-hello
-Hello, World!
+say-hello:
+	echo "Hello, World!"
